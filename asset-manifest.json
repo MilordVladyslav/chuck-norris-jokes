@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/chuck-norris-jokes/static/css/main.51878979.chunk.css",
+    "main.js": "/chuck-norris-jokes/static/js/main.3f2b23a3.chunk.js",
+    "main.js.map": "/chuck-norris-jokes/static/js/main.3f2b23a3.chunk.js.map",
+    "runtime~main.js": "/chuck-norris-jokes/static/js/runtime~main.c8cb4fa3.js",
+    "runtime~main.js.map": "/chuck-norris-jokes/static/js/runtime~main.c8cb4fa3.js.map",
+    "static/js/2.2597a9ec.chunk.js": "/chuck-norris-jokes/static/js/2.2597a9ec.chunk.js",
+    "static/js/2.2597a9ec.chunk.js.map": "/chuck-norris-jokes/static/js/2.2597a9ec.chunk.js.map",
+    "index.html": "/chuck-norris-jokes/index.html",
+    "precache-manifest.ea944748e60e29f2046e4b42f7946538.js": "/chuck-norris-jokes/precache-manifest.ea944748e60e29f2046e4b42f7946538.js",
+    "service-worker.js": "/chuck-norris-jokes/service-worker.js",
+    "static/css/main.51878979.chunk.css.map": "/chuck-norris-jokes/static/css/main.51878979.chunk.css.map",
+    "static/media/231471.jpg": "/chuck-norris-jokes/static/media/231471.c014f241.jpg",
+    "static/media/231472.jpg": "/chuck-norris-jokes/static/media/231472.5d92a714.jpg",
+    "static/media/231473.jpg": "/chuck-norris-jokes/static/media/231473.8361001c.jpg",
+    "static/media/231474.jpg": "/chuck-norris-jokes/static/media/231474.c3caa788.jpg",
+    "static/media/231480.jpg": "/chuck-norris-jokes/static/media/231480.d9956a16.jpg",
+    "static/media/231483.jpg": "/chuck-norris-jokes/static/media/231483.42b745a9.jpg",
+    "static/media/231484.jpg": "/chuck-norris-jokes/static/media/231484.3ab4c710.jpg",
+    "static/media/231492.jpg": "/chuck-norris-jokes/static/media/231492.b358fe68.jpg",
+    "static/media/231504.jpg": "/chuck-norris-jokes/static/media/231504.228bb61a.jpg",
+    "static/media/231505.jpg": "/chuck-norris-jokes/static/media/231505.ee298e53.jpg",
+    "static/media/231506.jpg": "/chuck-norris-jokes/static/media/231506.e88dd41f.jpg",
+    "static/media/231507.jpg": "/chuck-norris-jokes/static/media/231507.fd1b9bac.jpg",
+    "static/media/231508.jpg": "/chuck-norris-jokes/static/media/231508.209cb8e5.jpg",
+    "static/media/231509.jpg": "/chuck-norris-jokes/static/media/231509.659e6b91.jpg",
+    "static/media/231510.jpg": "/chuck-norris-jokes/static/media/231510.525a0635.jpg",
+    "static/media/45.svg": "/chuck-norris-jokes/static/media/45.f167cd57.svg"
+  }
+}
