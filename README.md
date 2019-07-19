@@ -2,7 +2,7 @@
 
 ## Chuck Norris Jokes
 
-Sup humanity, today its was boring and I just decided to make chuck-norris-jokes
+Sup humanity, today its was boring and I just decided to make chuck-norris-jokes.
 Jokes based on Chuck Norris API.
 Array with random pictures (Math.floor(Math.random()images.length).
 
