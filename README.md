@@ -14,8 +14,10 @@ Design is mine (sorry)
 ### used technologies:
 Just React, redux, thunk middleware, create-react-app, scss, npm and **MY BEATIFUL AWESOME FO-REAL-MEN URL-PARAMS-MAKER 2K19**
 
-### Have Fun! thanks fo ur stars .
+##
+
+![alt text](screenshot.png "Screenshot")
 
 ##
 
-https://milordvladyslav.github.io/chuck-norris-jokes/
+Have fun! Thanks for ur stars
