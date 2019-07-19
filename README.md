@@ -13,6 +13,7 @@ Design is mine (sorry)
 
 ### used technologies:
 Just React, redux, thunk middleware, create-react-app, scss, npm and **MY BEATIFUL AWESOME FO-REAL-MEN URL-PARAMS-MAKER 2K19**
+(https://github.com/MilordVladyslav/urlParamsMaker)
 
 ##
 Github pages:
