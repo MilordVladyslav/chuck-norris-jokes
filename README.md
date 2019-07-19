@@ -17,3 +17,5 @@ Just React, redux, thunk middleware, create-react-app, scss, npm and **MY BEATIF
 ### Have Fun! thanks fo ur stars .
 
 ##
+
+https://milordvladyslav.github.io/chuck-norris-jokes/
