@@ -3,7 +3,7 @@ import images from '../images'
 function reducer (state = initialState, action) {
   switch (action.type) {
     case "FETCHALL": {
-      let pictureIndex = Math.floor(Math.random()*10)
+      let pictureIndex = Math.floor(Math.random()*images.length)
       return {
         ...state,
         currentJoke: action.value[0],
