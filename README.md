@@ -15,6 +15,11 @@ Design is mine (sorry)
 Just React, redux, thunk middleware, create-react-app, scss, npm and **MY BEATIFUL AWESOME FO-REAL-MEN URL-PARAMS-MAKER 2K19**
 
 ##
+Github pages:
+
+https://milordvladyslav.github.io/chuck-norris-jokes/
+
+##
 
 ![alt text](screenshot.png "Screenshot")
 
